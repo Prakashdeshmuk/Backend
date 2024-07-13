@@ -1,0 +1,20 @@
+{
+  "name": "chai-aur-backend",
+  "version": "1.0.0",
+  "description": "First backend Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Prakash",
+    "first",
+    "project"
+  ],
+  "author": "Prakash Deshmukh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "start": "^5.1.0"
+  }
+}
